@@ -284,6 +284,15 @@ INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerico
 INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamericononline.20.pdf
 INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerouterthemedefault.sty
 INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerouterthemedefault.sty
+INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption-beamer.sto
+INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption-beamer.sto
+INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption-beamer.sto
+INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex\latex\base\makeidx.sty
+INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex\latex\base\makeidx.sty
 INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex\latex\beamertheme-metropolis\beamerthememetropolis.sty
 INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex\latex\beamertheme-metropolis\beamerthememetropolis.sty
 INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex\latex\pgfopts\pgfopts.sty
@@ -369,6 +378,13 @@ INPUT .\presentation.nav
 INPUT presentation.nav
 INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
 INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
+INPUT .\Bilder\HSKLLogo - black font.png
+INPUT .\Bilder\HSKLLogo - black font.png
+INPUT .\Bilder\HSKLLogo - black font.png
+INPUT .\Bilder\HSKLLogo - black font.png
+INPUT .\Bilder\HSKLLogo - black font.png
+INPUT .\Bilder\HSKLLogo - black font.png
+INPUT .\Bilder\HSKLLogo - black font.png
 INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss12.tfm
 INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
 INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss12.tfm
@@ -601,10 +617,85 @@ INPUT .\Bilder\HSKLLogo - white font.png
 INPUT .\Bilder\HSKLLogo - white font.png
 INPUT .\Bilder\HSKLLogo - white font.png
 INPUT .\Bilder\HSKLLogo - white font.png
+INPUT .\Bilder\alle_Sets_false_trans.png
+INPUT .\Bilder\alle_Sets_false_trans.png
+INPUT .\Bilder\alle_Sets_false_trans.png
+INPUT .\Bilder\alle_Sets_false_trans.png
+INPUT .\Bilder\alle_Sets_false_trans.png
+INPUT .\Bilder\alle_Sets_false_trans.png
+INPUT .\Bilder\alle_Sets_false_trans.png
+INPUT .\Bilder\alle_Sets_true_vs_false.png
+INPUT .\Bilder\alle_Sets_true_vs_false.png
+INPUT .\Bilder\alle_Sets_true_vs_false.png
+INPUT .\Bilder\alle_Sets_true_vs_false.png
+INPUT .\Bilder\alle_Sets_true_vs_false.png
+INPUT .\Bilder\alle_Sets_true_vs_false.png
+INPUT .\Bilder\alle_Sets_true_vs_false.png
+INPUT .\Bilder\UNET_vs_halfUNET.png
+INPUT .\Bilder\UNET_vs_halfUNET.png
+INPUT .\Bilder\UNET_vs_halfUNET.png
+INPUT .\Bilder\UNET_vs_halfUNET.png
+INPUT .\Bilder\UNET_vs_halfUNET.png
+INPUT .\Bilder\UNET_vs_halfUNET.png
+INPUT .\Bilder\UNET_vs_halfUNET.png
+INPUT .\Bilder\Original.jpeg
+INPUT .\Bilder\Original.jpeg
+INPUT .\Bilder\Original.jpeg
+INPUT .\Bilder\Original.jpeg
+INPUT .\Bilder\Original.jpeg
+INPUT .\Bilder\Original.jpeg
+INPUT .\Bilder\Original.jpeg
+INPUT .\Bilder\Original_und_Maske.jpeg
+INPUT .\Bilder\Original_und_Maske.jpeg
+INPUT .\Bilder\Original_und_Maske.jpeg
+INPUT .\Bilder\Original_und_Maske.jpeg
+INPUT .\Bilder\Original_und_Maske.jpeg
+INPUT .\Bilder\Original_und_Maske.jpeg
+INPUT .\Bilder\Original_und_Maske.jpeg
+INPUT .\Bilder\Prediction_und_Maske.jpeg
+INPUT .\Bilder\Prediction_und_Maske.jpeg
+INPUT .\Bilder\Prediction_und_Maske.jpeg
+INPUT .\Bilder\Prediction_und_Maske.jpeg
+INPUT .\Bilder\Prediction_und_Maske.jpeg
+INPUT .\Bilder\Prediction_und_Maske.jpeg
+INPUT .\Bilder\Prediction_und_Maske.jpeg
 INPUT .\Bilder\HSKLLogo - white font.png
 INPUT .\Bilder\HSKLLogo - white font.png
 INPUT .\Bilder\HSKLLogo - white font.png
 INPUT .\Bilder\HSKLLogo - white font.png
+INPUT .\Bilder\HSKLLogo - white font.png
+INPUT .\Bilder\HSKLLogo - white font.png
+INPUT .\Bilder\HSKLLogo - white font.png
+INPUT .\Bilder\HSKLLogo - white font.png
+INPUT .\Bilder\HSKLLogo - white font.png
+INPUT .\Bilder\HSKLLogo - white font.png
+INPUT .\Bilder\HSKLLogo - white font.png
+INPUT .\Bilder\HSKLLogo - white font.png
+INPUT .\Bilder\HSKLLogo - white font.png
+INPUT .\Bilder\HSKLLogo - white font.png
+INPUT .\Bilder\HSKLLogo - white font.png
+INPUT .\Bilder\HSKLLogo - white font.png
+INPUT .\Bilder\HSKLLogo - white font.png
+INPUT .\Bilder\HSKLLogo - white font.png
+INPUT .\Bilder\HSKLLogo - white font.png
+INPUT .\Bilder\HSKLLogo - white font.png
+INPUT .\Bilder\HSKLLogo - white font.png
+INPUT .\Bilder\HSKLLogo - white font.png
+INPUT .\Bilder\HSKLLogo - white font.png
+INPUT .\Bilder\HSKLLogo - white font.png
+INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
+INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
+INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\sansmathaccent\mathkerncmssi10.tfm
+INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
+INPUT C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
 INPUT .\Bilder\HSKLLogo - white font.png
 INPUT .\Bilder\HSKLLogo - white font.png
 INPUT .\Bilder\HSKLLogo - white font.png

@@ -1,5 +1,8 @@
 \documentclass{beamer}
 \usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{makeidx}
 \usetheme{metropolis}
 
 % my Colors
@@ -22,6 +25,8 @@
 \institute{Hochschule Kaiserslautern\newline
 Schoenstr. 11\newline
 67659 Kaiserslautern}
+\titlegraphic{\hfill\includegraphics[width=2cm]{Bilder/HSKLLogo - black font.png}}
+
 \setbeamertemplate{frametitle}
 {
     \begin{beamercolorbox}[wd=\paperwidth,ht=3ex,dp=1.125ex,leftskip=0.3cm,rightskip=0.3cm]{frametitle}
@@ -33,7 +38,6 @@ Schoenstr. 11\newline
 }
 
 \begin{document}
-
 \frame{\titlepage}
 
 \begin{frame}
@@ -48,9 +52,10 @@ Schoenstr. 11\newline
     \item Erstellen eines neuronalen Netzwerks
     \item Erkennen von Kerben auf Stents
     \item Visualisierung der Ergebnisse
+    \newline
     \begin{figure}
-        \includegraphics[width=8cm]{Bilder/Stent.jpg}
-        \caption{(Aufnahme eines Stentteils. Quelle: Yves Seburger)}
+        \includegraphics[width=6.5cm]{Bilder/Stent.jpg}
+        \caption{(Aufnahme eines Stentteils. \scriptsize{Quelle: Yves Seburger})}
     \end{figure}  
 \end{itemize}
 \end{frame}
@@ -60,27 +65,27 @@ Schoenstr. 11\newline
 \begin{frame}[allowframebreaks]
 \frametitle{Erstellung der Trainingsdaten}
 \begin{itemize}
-    \item Aufnahme von Stentbildern: \newline
+    \item Aufnahme von Stentbildern:
         \begin{figure}
-            \includegraphics[height=4.5cm]{Bilder/MoA_Gesa_preversion_cut.jpg}
+            \includegraphics[height=4.75cm]{Bilder/MoA_Gesa_preversion_cut.jpg}
             \hspace{20px}
-            \includegraphics[height=4.5cm]{Bilder/Stentpositionen.png}
-            \caption{((links) MoA Quelle: Dipl.-Ing Viktor Truderung, (rechts) Stentpositionen. Quelle: Yves Seburger)}
+            \includegraphics[height=4.75cm]{Bilder/Stentpositionen.png}
+            \caption{((links) MoA Quelle: Dipl.-Ing Viktor Truderung, (rechts) Stentpositionen. \scriptsize{Quelle: Yves Seburger})}
         \end{figure}
 \end{itemize}
 \begin{itemize}
-    \item Einschränkung von Kerbenfehlern: \newline
+    \item Einschränkung von Kerbenfehlern:
         \begin{figure}
-            \includegraphics[width=4cm]{Bilder/Annotationfragen/Frage_5_crop.jpg}
-            \includegraphics[width=4cm]{Bilder/Annotationfragen/Frage_5_anno.png}
-            \includegraphics[width=4cm]{Bilder/Annotationfragen/Kratzer.jpg}
-            \includegraphics[width=4cm]{Bilder/Annotationfragen/Kratzer_anno.jpg}
-            \caption{Annotierte Bilder. Quelle: Yves Seburger}
+            \includegraphics[width=4.5cm]{Bilder/Annotationfragen/Frage_5_crop.jpg}
+            \includegraphics[width=4.5cm]{Bilder/Annotationfragen/Frage_5_anno.png}
+            \includegraphics[width=4.5cm]{Bilder/Annotationfragen/Kratzer.jpg}
+            \includegraphics[width=4.5cm]{Bilder/Annotationfragen/Kratzer_anno.jpg}
+            \caption{Annotierte Bilder. \scriptsize{Quelle: Yves Seburger}}
         \end{figure} 
-    \item Annotation: \newline
+    \item Annotation:
     \begin{figure}
-        \includegraphics[width=8cm]{Bilder/toolima.png}
-        \caption{Toolima, Software zu Annotation. Quelle: Yves Seburger}
+        \includegraphics[width=8.7cm]{Bilder/toolima.png}
+        \caption{Toolima, Software zu Annotation. \scriptsize{Quelle: Yves Seburger}}
     \end{figure} 
 \end{itemize}
 \end{frame}
@@ -99,7 +104,7 @@ Schoenstr. 11\newline
         \item Optionale Anforderungen:
             \begin{itemize}
                 \item veränderliche Hyperparameter
-                \item "einfache" Handhabung
+                \item ``einfache`` Handhabung
                 \item schnelles Training ohne große Verluste
             \end{itemize}
         \item Technische Spezifikationen: 
@@ -116,9 +121,9 @@ Schoenstr. 11\newline
     \item Fehlerannotierung:
     \begin{itemize}
         \item Kratzer sollen nicht annotiert werden
-        \item Kerben "pixelgenau" annotieren
+        \item Kerben ``pixelgenau'' annotieren
     \end{itemize}
-    \item normaler Dice-Score:\newline
+    \item normaler Dice-Score:
     $Dice = \frac{2 \cdot A \cap B}{A + B}$ 
     \item Aufteilung der Originaldaten:
     \begin{itemize}
@@ -132,15 +137,16 @@ Schoenstr. 11\newline
 \begin{frame}[allowframebreaks]
 \frametitle{Methodik}
 \begin{itemize}
-    \item gewichteter Dice-Score:
+    \item gewichteter Dice-Score:\\
     \begin{equation}
         \begin{split}
             Dice &= \frac{2 \cdot A \cap B}{A + B}\\
             &= \frac{2 \cdot TP \cap B}{TP + FP + FN}\\
             Dice_g &= \frac{2 \cdot TP \cap B}{TP + \alpha \cdot FP + FN}
+            \,\,\,(mit\, \alpha \leq 1)
         \end{split}
     \end{equation}
-    \newpage
+    \framebreak
     \item Augmentierung:
     \begin{itemize}
         \item Spiegelung:
@@ -148,36 +154,34 @@ Schoenstr. 11\newline
             \includegraphics[height=2.4cm]{Bilder/Augmentation/mlr.jpg}
             \includegraphics[height=2.4cm]{Bilder/Augmentation/mtb.jpg}
             \includegraphics[height=2.4cm]{Bilder/Augmentation/mtlr.jpg}
-            \caption{gespiegelte Aufnahmen. Quelle: Yves Seburger}
+            \caption{gespiegelte Aufnahmen. \scriptsize{Quelle: Yves Seburger}}
         \end{figure} 
         \item Rotation:
         \begin{figure}
-            \includegraphics[height=2.7cm]{Bilder/Augmentation/-2grad.jpg}
-            \includegraphics[height=2.7cm]{Bilder/Augmentation/5grad.jpg}
-            \caption{rotierte Aufnahmen. Quelle: Yves Seburger}
+            \includegraphics[height=2.8cm]{Bilder/Augmentation/-2grad.jpg}
+            \includegraphics[height=2.8cm]{Bilder/Augmentation/5grad.jpg}
+            \caption{rotierte Aufnahmen. \scriptsize{Quelle: Yves Seburger}}
         \end{figure}
         \item Weichzeichnen:
         \begin{figure}
             \includegraphics[height=5cm]{Bilder/Augmentation/gauss.jpg}
-            \caption{weichgezeichnete Aufnahme. Quelle: Yves Seburger}
+            \caption{weichgezeichnete Aufnahme. \scriptsize{Quelle: Yves Seburger}}
         \end{figure} 
         \item Kontrastveränderung:
         \begin{figure}
             \includegraphics[height=5cm]{Bilder/Augmentation/kontraständerung.jpg}
-            \caption{kontrastveränderte Aufnahme. Quelle: Yves Seburger}
+            \caption{kontrastveränderte Aufnahme. \scriptsize{Quelle: Yves Seburger}}
         \end{figure} 
         \item Verzerrung:
         \begin{figure}
             \includegraphics[height=5cm]{Bilder/Augmentation/verzerrung.jpg}
-            \caption{verzerrte Aufnahme. Quelle: Yves Seburger}
+            \caption{verzerrte Aufnahme. \scriptsize{Quelle: Yves Seburger}}
         \end{figure} 
     \end{itemize}
     \item UNET
     \begin{figure}
         \includegraphics[width=0.8\linewidth]{Bilder/UNET_transparent.png}
         \caption{rotierte Aufnahmen. Quelle: \href{https://www.researchgate.net/profile/Blaz-Meden/publication/327635322/figure/fig2/AS:672158246252545@1537266422125/Illustration-of-the-training-data-The-top-row-shows-sample-images-from-the-CASIA.ppm}{Research Gate}}
-
-        
     \end{figure}
     \item Half-UNET
     \begin{figure}
@@ -188,15 +192,40 @@ Schoenstr. 11\newline
 \end{frame}
 
 \section{Resultate}
-\begin{frame}
+\begin{frame}[allowframebreaks]
 \frametitle{Resultate}
 \begin{itemize}
-    \item verschiedene Trainingssets
+    \item verschiedene Trainingssets:
+    \begin{figure}
+        \includegraphics[width=0.85\linewidth]{Bilder/alle_Sets_false_trans.png}
+        \caption{Dice-Scores für alle Datasets. \scriptsize{Quelle: Yves Seburger}}
+    \end{figure}
+    \framebreak
     \item Dice-Score vs. gewichteter Dice-Score
+    \begin{figure}
+        \includegraphics[width=0.95\linewidth]{Bilder/alle_Sets_true_vs_false.png}
+        \caption{gemittelte Dice-Scores für alle Datasets. \scriptsize{Quelle: Yves Seburger}}
+    \end{figure}
     \item UNET vs. HalfUNET
-    \item versch. Lernraten im Test
-    \item versch. Bildauflösungen
-    \item Endresultate
+    \begin{figure}
+        \includegraphics[width=0.85\linewidth]{Bilder/UNET_vs_halfUNET.png}
+        \caption{UNET und HalfUNET im Vergleich. \scriptsize{Quelle: Yves Seburger}}
+    \end{figure}
+    HalfUNET \raisebox{0.5ex}{\texttildelow}$2,5 \times$ schneller, bei fast gleichem Resultat.
+    \item Endresultat
+    \begin{figure}
+        \includegraphics[width=0.9\linewidth]{Bilder/Original.jpeg}
+        \caption{Originalbild. \scriptsize{Quelle: Yves Seburger}}
+    \end{figure}
+    \begin{figure}
+        \includegraphics[width=0.95\linewidth]{Bilder/Original_und_Maske.jpeg}
+        \caption{Originalbild mit überlagerter Maske. \scriptsize{Quelle: Yves Seburger}}
+    \end{figure}
+    \begin{figure}
+        \includegraphics[width=0.95\linewidth]{Bilder/Prediction_und_Maske.jpeg}
+        \caption{Resultat der Prediction zur Visualisierung. \newline Dice-Score = \raisebox{0.5ex}{\texttildelow}0.77. \scriptsize{Quelle: Yves Seburger}}
+    \end{figure}
+    
 \end{itemize}
 \end{frame}
 
@@ -205,7 +234,14 @@ Schoenstr. 11\newline
 \frametitle{Fazit und Ausblick}
 \begin{itemize}
     \item Erweiterung der Aufnahmen
-    \item Tests mit veränderlichem $\alpha$
+    \item Tests mit veränderlichem $\alpha$. \\
+    \small{(Bisher nur linearer Anstieg, bis zur 10ten Epoche.)}
+    \begin{itemize}
+        \item Logarithmisch
+        \item Exponentiell
+        \item veränderliche End-Epochen für die Veränderung von $\alpha$
+    \end{itemize}
+    \item Qualität der Resultate (ermüchternd)
     \item Nutzung anderer Trainingssets (Autos, Vögel, etc.)
 \end{itemize}
 \end{frame}

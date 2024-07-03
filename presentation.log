@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.22)  3 JUL 2024 14:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.22)  3 JUL 2024 17:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -534,7 +534,30 @@ Package: amsthm 2020/05/29 v2.20.6
 ) (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasethemes.sty)) (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemedefault.sty (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerfontthemedefault.sty) (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthemedefault.sty) (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnerthemedefault.sty
 \beamer@dima=\dimen293
 \beamer@dimb=\dimen294
-) (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerouterthemedefault.sty))) (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/beamertheme-metropolis\beamerthememetropolis.sty
+) (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerouterthemedefault.sty))) (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen295
+\captionmargin=\dimen296
+\caption@leftmargin=\dimen297
+\caption@rightmargin=\dimen298
+\caption@width=\dimen299
+\caption@indent=\dimen300
+\caption@parindent=\dimen301
+\caption@hangindent=\dimen302
+Package caption Info: beamer document class detected.
+ (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-beamer.sto
+File: caption-beamer.sto 2022/01/06 v2.0c Adaption of the caption package to the beamer document classes (AR)
+))
+\c@caption@flags=\count343
+\c@continuedfloat=\count344
+Package caption Info: hyperref package is loaded.
+Package caption Info: Hyperref support is turned off
+(caption)             because hyperref has stopped early.
+) (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
+Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
+) (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/beamertheme-metropolis\beamerthememetropolis.sty
 Package: beamerthememetropolis 2017/01/23 v1.2 Metropolis Beamer theme
  (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/pgfopts\pgfopts.sty
 Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
@@ -544,15 +567,15 @@ Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
 Package: beamerinnerthememetropolis 2017/01/23 Metropolis inner theme
  (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count343
-\calc@Bcount=\count344
-\calc@Adimen=\dimen295
-\calc@Bdimen=\dimen296
+\calc@Acount=\count345
+\calc@Bcount=\count346
+\calc@Adimen=\dimen303
+\calc@Bdimen=\dimen304
 \calc@Askip=\skip66
 \calc@Bskip=\skip67
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count345
+\calc@Ccount=\count347
 \calc@Cskip=\skip68
 ) (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
@@ -563,46 +586,46 @@ File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen297
-\pgf@nodesepend=\dimen298
+\pgf@nodesepstart=\dimen305
+\pgf@nodesepend=\dimen306
 ) (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 )) (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen299
-\pgffor@skip=\dimen300
+\pgffor@iter=\dimen307
+\pgffor@skip=\dimen308
 \pgffor@stack=\toks48
 \pgffor@toks=\toks49
 )) (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count346
-\pgfplotmarksize=\dimen301
+\pgf@plot@mark@count=\count348
+\pgfplotmarksize=\dimen309
 )
-\tikz@lastx=\dimen302
-\tikz@lasty=\dimen303
-\tikz@lastxsaved=\dimen304
-\tikz@lastysaved=\dimen305
-\tikz@lastmovetox=\dimen306
-\tikz@lastmovetoy=\dimen307
-\tikzleveldistance=\dimen308
-\tikzsiblingdistance=\dimen309
+\tikz@lastx=\dimen310
+\tikz@lasty=\dimen311
+\tikz@lastxsaved=\dimen312
+\tikz@lastysaved=\dimen313
+\tikz@lastmovetox=\dimen314
+\tikz@lastmovetoy=\dimen315
+\tikzleveldistance=\dimen316
+\tikzsiblingdistance=\dimen317
 \tikz@figbox=\box78
 \tikz@figbox@bg=\box79
 \tikz@tempbox=\box80
 \tikz@tempbox@bg=\box81
-\tikztreelevel=\count347
-\tikznumberofchildren=\count348
-\tikznumberofcurrentchild=\count349
-\tikz@fig@count=\count350
+\tikztreelevel=\count349
+\tikznumberofchildren=\count350
+\tikznumberofcurrentchild=\count351
+\tikz@fig@count=\count352
  (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count351
-\pgfmatrixcurrentcolumn=\count352
-\pgf@matrix@numberofcolumns=\count353
+\pgfmatrixcurrentrow=\count353
+\pgfmatrixcurrentcolumn=\count354
+\pgf@matrix@numberofcolumns=\count355
 )
-\tikz@expandcount=\count354
+\tikz@expandcount=\count356
  (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
@@ -631,29 +654,29 @@ Package beamerthememetropolis Warning: You need to compile with XeLaTeX or LuaLa
 
 )) (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count355
+\l__color_backend_stack_int=\count357
 \l__pdf_internal_box=\box82
 ) (presentation.aux)
 \openout1 = `presentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -691,16 +714,16 @@ LaTeX Font Info:    ... okay on input line 35.
 
 (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count356
-\scratchdimen=\dimen310
+\scratchcounter=\count358
+\scratchdimen=\dimen318
 \scratchbox=\box83
-\nofMPsegments=\count357
-\nofMParguments=\count358
+\nofMPsegments=\count359
+\nofMParguments=\count360
 \everyMPshowfont=\toks50
-\MPscratchCnt=\count359
-\MPscratchDim=\dimen311
-\MPnumerator=\count360
-\makeMPintoPDFobject=\count361
+\MPscratchCnt=\count361
+\MPscratchDim=\dimen319
+\MPnumerator=\count362
+\makeMPintoPDFobject=\count363
 \everyMPtoPDFconversion=\toks51
 ) (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -708,60 +731,60 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 35.
+Package hyperref Info: Link coloring OFF on input line 40.
  (presentation.out) (presentation.out)
 \@outlinefile=\write5
 \openout5 = `presentation.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 35.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 40.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 35.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 40.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 35.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 35.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 35.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 35.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 40.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 35.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 35.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 40.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 35.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 35.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 35.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 40.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 35.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 35.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 40.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 35.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 40.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 35.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 35.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 35.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 35.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 35.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 35.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 35.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 40.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 40.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 35.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 40.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 35.
+(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 40.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 35.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 40.
  (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-bibliography-dictionary-English.dict
@@ -774,34 +797,47 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (presentation.nav)
-Overfull \vbox (44.55656pt too high) detected at line 37
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ (presentation.nav)
+<Bilder/HSKLLogo - black font.png, id=40, 415.5525pt x 216.3282pt>
+File: Bilder/HSKLLogo - black font.png Graphic file (type png)
+<use Bilder/HSKLLogo - black font.png>
+Package pdftex.def Info: Bilder/HSKLLogo - black font.png  used on input line 41.
+(pdftex.def)             Requested size: 56.9055pt x 29.62225pt.
+
+Overfull \vbox (51.52231pt too high) detected at line 41
+ []
+
+
+Overfull \vbox (44.55656pt too high) detected at line 41
  []
 
 
 
 [1
 
-{C:/Users/Skrixxel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (presentation.toc)
-<Bilder/HSKLLogo - white font.png, id=56, 415.5525pt x 216.3282pt>
+{C:/Users/Skrixxel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Bilder/HSKLLogo - black font.png>] (presentation.toc)
+<Bilder/HSKLLogo - white font.png, id=59, 415.5525pt x 216.3282pt>
 File: Bilder/HSKLLogo - white font.png Graphic file (type png)
 <use Bilder/HSKLLogo - white font.png>
-Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 42.
+Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 46.
 (pdftex.def)             Requested size: 40.4417pt x 21.05519pt.
 
 
 [2
 
  <./Bilder/HSKLLogo - white font.png>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 48.
  (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 48.
  (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 44.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 48.
  (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 )
@@ -809,18 +845,28 @@ File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mat
 [3
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 56.
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 61.
  (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmss.fd
 File: ts1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-<Bilder/Stent.jpg, id=76, 5339.95pt x 2810.5pt>
+<Bilder/Stent.jpg, id=78, 5339.95pt x 2810.5pt>
 File: Bilder/Stent.jpg Graphic file (type jpg)
 <use Bilder/Stent.jpg>
-Package pdftex.def Info: Bilder/Stent.jpg  used on input line 56.
-(pdftex.def)             Requested size: 227.62204pt x 119.77702pt.
+Package pdftex.def Info: Bilder/Stent.jpg  used on input line 61.
+(pdftex.def)             Requested size: 184.9429pt x 97.30544pt.
+
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 61--61
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+
+ []
+
 File: Bilder/HSKLLogo - white font.png Graphic file (type png)
 <use Bilder/HSKLLogo - white font.png>
-Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 56.
+Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 61.
 (pdftex.def)             Requested size: 40.4417pt x 21.05519pt.
 
 
@@ -831,44 +877,74 @@ Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 56
 [5
 
 ]
-<Bilder/MoA_Gesa_preversion_cut.jpg, id=88, 345.98552pt x 411.99591pt>
+<Bilder/MoA_Gesa_preversion_cut.jpg, id=90, 345.98552pt x 411.99591pt>
 File: Bilder/MoA_Gesa_preversion_cut.jpg Graphic file (type jpg)
 <use Bilder/MoA_Gesa_preversion_cut.jpg>
-Package pdftex.def Info: Bilder/MoA_Gesa_preversion_cut.jpg  used on input line 86.
-(pdftex.def)             Requested size: 107.52364pt x 128.0374pt.
-<Bilder/Stentpositionen.png, id=89, 2007.5pt x 3559.2975pt>
+Package pdftex.def Info: Bilder/MoA_Gesa_preversion_cut.jpg  used on input line 91.
+(pdftex.def)             Requested size: 113.49454pt x 135.15059pt.
+<Bilder/Stentpositionen.png, id=91, 2007.5pt x 3559.2975pt>
 File: Bilder/Stentpositionen.png Graphic file (type png)
 <use Bilder/Stentpositionen.png>
-Package pdftex.def Info: Bilder/Stentpositionen.png  used on input line 86.
-(pdftex.def)             Requested size: 72.19948pt x 128.0374pt.
-<Bilder/Annotationfragen/Frage_5_crop.jpg, id=90, 1453.68094pt x 817.55438pt>
+Package pdftex.def Info: Bilder/Stentpositionen.png  used on input line 91.
+(pdftex.def)             Requested size: 76.21227pt x 135.15059pt.
+
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 91--91
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+
+ []
+
+<Bilder/Annotationfragen/Frage_5_crop.jpg, id=92, 1453.68094pt x 817.55438pt>
 File: Bilder/Annotationfragen/Frage_5_crop.jpg Graphic file (type jpg)
 <use Bilder/Annotationfragen/Frage_5_crop.jpg>
-Package pdftex.def Info: Bilder/Annotationfragen/Frage_5_crop.jpg  used on input line 86.
-(pdftex.def)             Requested size: 113.81102pt x 63.99602pt.
-<Bilder/Annotationfragen/Frage_5_anno.png, id=91, 1387.43344pt x 777.65532pt>
+Package pdftex.def Info: Bilder/Annotationfragen/Frage_5_crop.jpg  used on input line 91.
+(pdftex.def)             Requested size: 128.0374pt x 72.00488pt.
+<Bilder/Annotationfragen/Frage_5_anno.png, id=93, 1387.43344pt x 777.65532pt>
 File: Bilder/Annotationfragen/Frage_5_anno.png Graphic file (type png)
 <use Bilder/Annotationfragen/Frage_5_anno.png>
-Package pdftex.def Info: Bilder/Annotationfragen/Frage_5_anno.png  used on input line 86.
-(pdftex.def)             Requested size: 113.81102pt x 63.78001pt.
-<Bilder/Annotationfragen/Kratzer.jpg, id=92, 1498.09688pt x 998.9822pt>
+Package pdftex.def Info: Bilder/Annotationfragen/Frage_5_anno.png  used on input line 91.
+(pdftex.def)             Requested size: 128.0374pt x 71.754pt.
+<Bilder/Annotationfragen/Kratzer.jpg, id=94, 1498.09688pt x 998.9822pt>
 File: Bilder/Annotationfragen/Kratzer.jpg Graphic file (type jpg)
 <use Bilder/Annotationfragen/Kratzer.jpg>
-Package pdftex.def Info: Bilder/Annotationfragen/Kratzer.jpg  used on input line 86.
-(pdftex.def)             Requested size: 113.81102pt x 75.88075pt.
-<Bilder/Annotationfragen/Kratzer_anno.jpg, id=93, 1507.88344pt x 1005.00468pt>
+Package pdftex.def Info: Bilder/Annotationfragen/Kratzer.jpg  used on input line 91.
+(pdftex.def)             Requested size: 128.0374pt x 85.37727pt.
+<Bilder/Annotationfragen/Kratzer_anno.jpg, id=95, 1507.88344pt x 1005.00468pt>
 File: Bilder/Annotationfragen/Kratzer_anno.jpg Graphic file (type jpg)
 <use Bilder/Annotationfragen/Kratzer_anno.jpg>
-Package pdftex.def Info: Bilder/Annotationfragen/Kratzer_anno.jpg  used on input line 86.
-(pdftex.def)             Requested size: 113.81102pt x 75.84749pt.
-<Bilder/toolima.png, id=94, 688.07062pt x 423.08063pt>
+Package pdftex.def Info: Bilder/Annotationfragen/Kratzer_anno.jpg  used on input line 91.
+(pdftex.def)             Requested size: 128.0374pt x 85.32458pt.
+
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 91--91
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+
+ []
+
+<Bilder/toolima.png, id=96, 688.07062pt x 423.08063pt>
 File: Bilder/toolima.png Graphic file (type png)
 <use Bilder/toolima.png>
-Package pdftex.def Info: Bilder/toolima.png  used on input line 86.
-(pdftex.def)             Requested size: 227.62204pt x 139.95918pt.
+Package pdftex.def Info: Bilder/toolima.png  used on input line 91.
+(pdftex.def)             Requested size: 247.53888pt x 152.20561pt.
+
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 91--91
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+
+ []
+
 File: Bilder/HSKLLogo - white font.png Graphic file (type png)
 <use Bilder/HSKLLogo - white font.png>
-Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 86.
+Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 91.
 (pdftex.def)             Requested size: 40.4417pt x 21.05519pt.
 
 
@@ -877,7 +953,7 @@ Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 86
  <./Bilder/MoA_Gesa_preversion_cut.jpg> <./Bilder/Stentpositionen.png>]
 File: Bilder/HSKLLogo - white font.png Graphic file (type png)
 <use Bilder/HSKLLogo - white font.png>
-Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 86.
+Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 91.
 (pdftex.def)             Requested size: 40.4417pt x 21.05519pt.
 
 
@@ -887,7 +963,7 @@ Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 86
  <./Bilder/Annotationfragen/Frage_5_crop.jpg> <./Bilder/Annotationfragen/Frage_5_anno.png> <./Bilder/Annotationfragen/Kratzer.jpg> <./Bilder/Annotationfragen/Kratzer_anno.jpg>]
 File: Bilder/HSKLLogo - white font.png Graphic file (type png)
 <use Bilder/HSKLLogo - white font.png>
-Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 86.
+Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 91.
 (pdftex.def)             Requested size: 40.4417pt x 21.05519pt.
 
 
@@ -901,7 +977,7 @@ Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 86
 ]
 File: Bilder/HSKLLogo - white font.png Graphic file (type png)
 <use Bilder/HSKLLogo - white font.png>
-Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 109.
+Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 114.
 (pdftex.def)             Requested size: 40.4417pt x 21.05519pt.
 
 
@@ -914,7 +990,7 @@ Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 10
 ]
 File: Bilder/HSKLLogo - white font.png Graphic file (type png)
 <use Bilder/HSKLLogo - white font.png>
-Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 129.
+Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 134.
 (pdftex.def)             Requested size: 40.4417pt x 21.05519pt.
 
 
@@ -925,74 +1001,144 @@ Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 12
 [13
 
 ]
-<Bilder/Augmentation/mlr.jpg, id=145, 5339.95pt x 2810.5pt>
+<Bilder/Augmentation/mlr.jpg, id=147, 5339.95pt x 2810.5pt>
 File: Bilder/Augmentation/mlr.jpg Graphic file (type jpg)
 <use Bilder/Augmentation/mlr.jpg>
-Package pdftex.def Info: Bilder/Augmentation/mlr.jpg  used on input line 188.
+Package pdftex.def Info: Bilder/Augmentation/mlr.jpg  used on input line 192.
 (pdftex.def)             Requested size: 129.7177pt x 68.28644pt.
-<Bilder/Augmentation/mtb.jpg, id=146, 5339.95pt x 2810.5pt>
+<Bilder/Augmentation/mtb.jpg, id=148, 5339.95pt x 2810.5pt>
 File: Bilder/Augmentation/mtb.jpg Graphic file (type jpg)
 <use Bilder/Augmentation/mtb.jpg>
-Package pdftex.def Info: Bilder/Augmentation/mtb.jpg  used on input line 188.
+Package pdftex.def Info: Bilder/Augmentation/mtb.jpg  used on input line 192.
 (pdftex.def)             Requested size: 129.7177pt x 68.28644pt.
-<Bilder/Augmentation/mtlr.jpg, id=147, 5339.95pt x 2810.5pt>
+<Bilder/Augmentation/mtlr.jpg, id=149, 5339.95pt x 2810.5pt>
 File: Bilder/Augmentation/mtlr.jpg Graphic file (type jpg)
 <use Bilder/Augmentation/mtlr.jpg>
-Package pdftex.def Info: Bilder/Augmentation/mtlr.jpg  used on input line 188.
+Package pdftex.def Info: Bilder/Augmentation/mtlr.jpg  used on input line 192.
 (pdftex.def)             Requested size: 129.7177pt x 68.28644pt.
-<Bilder/Augmentation/-2grad.jpg, id=148, 5339.95pt x 2810.5pt>
+
+Overfull \hbox (43.80011pt too wide) in paragraph at lines 192--192
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
+
+ []
+
+<Bilder/Augmentation/-2grad.jpg, id=150, 5339.95pt x 2810.5pt>
 File: Bilder/Augmentation/-2grad.jpg Graphic file (type jpg)
 <use Bilder/Augmentation/-2grad.jpg>
-Package pdftex.def Info: Bilder/Augmentation/-2grad.jpg  used on input line 188.
-(pdftex.def)             Requested size: 145.93242pt x 76.82234pt.
-<Bilder/Augmentation/5grad.jpg, id=149, 5339.95pt x 2810.5pt>
+Package pdftex.def Info: Bilder/Augmentation/-2grad.jpg  used on input line 192.
+(pdftex.def)             Requested size: 151.31017pt x 79.6678pt.
+<Bilder/Augmentation/5grad.jpg, id=151, 5339.95pt x 2810.5pt>
 File: Bilder/Augmentation/5grad.jpg Graphic file (type jpg)
 <use Bilder/Augmentation/5grad.jpg>
-Package pdftex.def Info: Bilder/Augmentation/5grad.jpg  used on input line 188.
-(pdftex.def)             Requested size: 145.93242pt x 76.82234pt.
-<Bilder/Augmentation/gauss.jpg, id=150, 5339.95pt x 2810.5pt>
+Package pdftex.def Info: Bilder/Augmentation/5grad.jpg  used on input line 192.
+(pdftex.def)             Requested size: 151.31017pt x 79.6678pt.
+
+Overfull \hbox (43.80011pt too wide) in paragraph at lines 192--192
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
+
+ []
+
+<Bilder/Augmentation/gauss.jpg, id=152, 5339.95pt x 2810.5pt>
 File: Bilder/Augmentation/gauss.jpg Graphic file (type jpg)
 <use Bilder/Augmentation/gauss.jpg>
-Package pdftex.def Info: Bilder/Augmentation/gauss.jpg  used on input line 188.
+Package pdftex.def Info: Bilder/Augmentation/gauss.jpg  used on input line 192.
 (pdftex.def)             Requested size: 270.27238pt x 142.26378pt.
 
-Overfull \hbox (6.78262pt too wide) in paragraph at lines 188--188
+Overfull \hbox (6.78262pt too wide) in paragraph at lines 192--192
  [] 
  []
 
-<Bilder/Augmentation/kontraständerung.jpg, id=151, 5339.95pt x 2810.5pt>
+
+Overfull \hbox (43.80011pt too wide) in paragraph at lines 192--192
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
+
+ []
+
+<Bilder/Augmentation/kontraständerung.jpg, id=153, 5339.95pt x 2810.5pt>
 File: Bilder/Augmentation/kontraständerung.jpg Graphic file (type jpg)
 <use Bilder/Augmentation/kontraständerung.jpg>
-Package pdftex.def Info: Bilder/Augmentation/kontraständerung.jpg  used on input line 188.
+Package pdftex.def Info: Bilder/Augmentation/kontraständerung.jpg  used on input line 192.
 (pdftex.def)             Requested size: 270.27238pt x 142.26378pt.
 
-Overfull \hbox (6.78262pt too wide) in paragraph at lines 188--188
+Overfull \hbox (6.78262pt too wide) in paragraph at lines 192--192
  [] 
  []
 
-<Bilder/Augmentation/verzerrung.jpg, id=152, 5339.95pt x 2810.5pt>
+
+Overfull \hbox (43.80011pt too wide) in paragraph at lines 192--192
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
+
+ []
+
+<Bilder/Augmentation/verzerrung.jpg, id=154, 5339.95pt x 2810.5pt>
 File: Bilder/Augmentation/verzerrung.jpg Graphic file (type jpg)
 <use Bilder/Augmentation/verzerrung.jpg>
-Package pdftex.def Info: Bilder/Augmentation/verzerrung.jpg  used on input line 188.
+Package pdftex.def Info: Bilder/Augmentation/verzerrung.jpg  used on input line 192.
 (pdftex.def)             Requested size: 270.27238pt x 142.26378pt.
 
-Overfull \hbox (6.78262pt too wide) in paragraph at lines 188--188
+Overfull \hbox (6.78262pt too wide) in paragraph at lines 192--192
  [] 
  []
 
-<Bilder/UNET_transparent.png, id=153, 1560.83125pt x 1039.885pt>
+
+Overfull \hbox (43.80011pt too wide) in paragraph at lines 192--192
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
+
+ []
+
+<Bilder/UNET_transparent.png, id=155, 1560.83125pt x 1039.885pt>
 File: Bilder/UNET_transparent.png Graphic file (type png)
 <use Bilder/UNET_transparent.png>
-Package pdftex.def Info: Bilder/UNET_transparent.png  used on input line 188.
+Package pdftex.def Info: Bilder/UNET_transparent.png  used on input line 192.
 (pdftex.def)             Requested size: 228.31271pt x 152.10439pt.
-<Bilder/halfUNET.png, id=155, 1088.065pt x 669.50125pt>
+
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 192--192
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
+
+ []
+
+<Bilder/halfUNET.png, id=158, 1088.065pt x 669.50125pt>
 File: Bilder/halfUNET.png Graphic file (type png)
 <use Bilder/halfUNET.png>
-Package pdftex.def Info: Bilder/halfUNET.png  used on input line 188.
+Package pdftex.def Info: Bilder/halfUNET.png  used on input line 192.
 (pdftex.def)             Requested size: 228.31271pt x 140.47682pt.
+
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 192--192
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
+
+ []
+
 File: Bilder/HSKLLogo - white font.png Graphic file (type png)
 <use Bilder/HSKLLogo - white font.png>
-Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 188.
+Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 192.
 (pdftex.def)             Requested size: 40.4417pt x 21.05519pt.
 
 
@@ -1001,7 +1147,7 @@ Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 18
 ]
 File: Bilder/HSKLLogo - white font.png Graphic file (type png)
 <use Bilder/HSKLLogo - white font.png>
-Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 188.
+Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 192.
 (pdftex.def)             Requested size: 40.4417pt x 21.05519pt.
 
 
@@ -1011,7 +1157,7 @@ Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 18
  <./Bilder/Augmentation/mlr.jpg> <./Bilder/Augmentation/mtb.jpg> <./Bilder/Augmentation/mtlr.jpg>]
 File: Bilder/HSKLLogo - white font.png Graphic file (type png)
 <use Bilder/HSKLLogo - white font.png>
-Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 188.
+Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 192.
 (pdftex.def)             Requested size: 40.4417pt x 21.05519pt.
 
 
@@ -1021,7 +1167,7 @@ Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 18
  <./Bilder/Augmentation/-2grad.jpg> <./Bilder/Augmentation/5grad.jpg>]
 File: Bilder/HSKLLogo - white font.png Graphic file (type png)
 <use Bilder/HSKLLogo - white font.png>
-Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 188.
+Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 192.
 (pdftex.def)             Requested size: 40.4417pt x 21.05519pt.
 
 
@@ -1031,7 +1177,7 @@ Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 18
  <./Bilder/Augmentation/gauss.jpg>]
 File: Bilder/HSKLLogo - white font.png Graphic file (type png)
 <use Bilder/HSKLLogo - white font.png>
-Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 188.
+Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 192.
 (pdftex.def)             Requested size: 40.4417pt x 21.05519pt.
 
 
@@ -1041,7 +1187,7 @@ Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 18
  <./Bilder/Augmentation/kontraständerung.jpg>]
 File: Bilder/HSKLLogo - white font.png Graphic file (type png)
 <use Bilder/HSKLLogo - white font.png>
-Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 188.
+Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 192.
 (pdftex.def)             Requested size: 40.4417pt x 21.05519pt.
 
 
@@ -1051,7 +1197,7 @@ Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 18
  <./Bilder/Augmentation/verzerrung.jpg>]
 File: Bilder/HSKLLogo - white font.png Graphic file (type png)
 <use Bilder/HSKLLogo - white font.png>
-Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 188.
+Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 192.
 (pdftex.def)             Requested size: 40.4417pt x 21.05519pt.
 
 
@@ -1061,7 +1207,7 @@ Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 18
  <./Bilder/UNET_transparent.png>]
 File: Bilder/HSKLLogo - white font.png Graphic file (type png)
 <use Bilder/HSKLLogo - white font.png>
-Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 188.
+Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 192.
 (pdftex.def)             Requested size: 40.4417pt x 21.05519pt.
 
 
@@ -1073,26 +1219,166 @@ Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 18
 [22
 
 ]
+<Bilder/alle_Sets_false_trans.png, id=211, 573.1011pt x 346.896pt>
+File: Bilder/alle_Sets_false_trans.png Graphic file (type png)
+<use Bilder/alle_Sets_false_trans.png>
+Package pdftex.def Info: Bilder/alle_Sets_false_trans.png  used on input line 230.
+(pdftex.def)             Requested size: 242.58308pt x 146.83336pt.
+
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 230--230
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+
+ []
+
+<Bilder/alle_Sets_true_vs_false.png, id=212, 611.4042pt x 306.4248pt>
+File: Bilder/alle_Sets_true_vs_false.png Graphic file (type png)
+<use Bilder/alle_Sets_true_vs_false.png>
+Package pdftex.def Info: Bilder/alle_Sets_true_vs_false.png  used on input line 230.
+(pdftex.def)             Requested size: 271.11945pt x 135.88402pt.
+
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 230--230
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+
+ []
+
+<Bilder/UNET_vs_halfUNET.png, id=213, 629.4717pt x 346.896pt>
+File: Bilder/UNET_vs_halfUNET.png Graphic file (type png)
+<use Bilder/UNET_vs_halfUNET.png>
+Package pdftex.def Info: Bilder/UNET_vs_halfUNET.png  used on input line 230.
+(pdftex.def)             Requested size: 242.58308pt x 133.68504pt.
+
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 230--230
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+
+ []
+
+<Bilder/Original.jpeg, id=214, 2569.6pt x 1352.05125pt>
+File: Bilder/Original.jpeg Graphic file (type jpg)
+<use Bilder/Original.jpeg>
+Package pdftex.def Info: Bilder/Original.jpeg  used on input line 230.
+(pdftex.def)             Requested size: 256.84909pt x 135.13052pt.
+
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 230--230
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+
+ []
+
+<Bilder/Original_und_Maske.jpeg, id=215, 1203.7472pt x 633.11531pt>
+File: Bilder/Original_und_Maske.jpeg Graphic file (type jpg)
+<use Bilder/Original_und_Maske.jpeg>
+Package pdftex.def Info: Bilder/Original_und_Maske.jpeg  used on input line 230.
+(pdftex.def)             Requested size: 271.11945pt x 142.5897pt.
+
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 230--230
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+
+ []
+
+<Bilder/Prediction_und_Maske.jpeg, id=216, 1204.5pt x 542.77782pt>
+File: Bilder/Prediction_und_Maske.jpeg Graphic file (type jpg)
+<use Bilder/Prediction_und_Maske.jpeg>
+Package pdftex.def Info: Bilder/Prediction_und_Maske.jpeg  used on input line 230.
+(pdftex.def)             Requested size: 271.11945pt x 122.16942pt.
+
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 230--230
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+
+ []
+
 File: Bilder/HSKLLogo - white font.png Graphic file (type png)
 <use Bilder/HSKLLogo - white font.png>
-Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 201.
+Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 230.
 (pdftex.def)             Requested size: 40.4417pt x 21.05519pt.
 
 
 [23
 
-]
+ <./Bilder/alle_Sets_false_trans.png>]
+File: Bilder/HSKLLogo - white font.png Graphic file (type png)
+<use Bilder/HSKLLogo - white font.png>
+Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 230.
+(pdftex.def)             Requested size: 40.4417pt x 21.05519pt.
+
 
 [24
 
-]
+
+ <./Bilder/alle_Sets_true_vs_false.png>]
 File: Bilder/HSKLLogo - white font.png Graphic file (type png)
 <use Bilder/HSKLLogo - white font.png>
-Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 211.
+Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 230.
 (pdftex.def)             Requested size: 40.4417pt x 21.05519pt.
 
 
 [25
+
+
+ <./Bilder/UNET_vs_halfUNET.png>]
+File: Bilder/HSKLLogo - white font.png Graphic file (type png)
+<use Bilder/HSKLLogo - white font.png>
+Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 230.
+(pdftex.def)             Requested size: 40.4417pt x 21.05519pt.
+
+
+[26
+
+
+ <./Bilder/Original.jpeg>]
+File: Bilder/HSKLLogo - white font.png Graphic file (type png)
+<use Bilder/HSKLLogo - white font.png>
+Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 230.
+(pdftex.def)             Requested size: 40.4417pt x 21.05519pt.
+
+
+[27
+
+
+ <./Bilder/Original_und_Maske.jpeg>]
+File: Bilder/HSKLLogo - white font.png Graphic file (type png)
+<use Bilder/HSKLLogo - white font.png>
+Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 230.
+(pdftex.def)             Requested size: 40.4417pt x 21.05519pt.
+
+
+[28
+
+
+ <./Bilder/Prediction_und_Maske.jpeg>]
+
+[29
+
+]
+File: Bilder/HSKLLogo - white font.png Graphic file (type png)
+<use Bilder/HSKLLogo - white font.png>
+Package pdftex.def Info: Bilder/HSKLLogo - white font.png  used on input line 247.
+(pdftex.def)             Requested size: 40.4417pt x 21.05519pt.
+
+
+[30
 
 ]
 \tf@nav=\write6
@@ -1113,17 +1399,17 @@ Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: 8C314E3BDBEEFA417C5E275F728F1BAA;1035.
  ) 
 Here is how much of TeX's memory you used:
- 25406 strings out of 473920
- 519433 string characters out of 5725558
- 1938908 words of memory out of 5000000
- 47689 multiletter control sequences out of 15000+600000
- 566999 words of font info for 67 fonts, out of 8000000 for 9000
+ 26879 strings out of 473920
+ 549088 string characters out of 5725558
+ 1939908 words of memory out of 5000000
+ 49137 multiletter control sequences out of 15000+600000
+ 570488 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,16n,123p,1888b,759s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,16n,123p,1888b,829s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Skrixxel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1000.pk> <C:\Users\Skrixxel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1095.pk><C:/Users/Skrixxel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Skrixxel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Skrixxel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/Skrixxel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Skrixxel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/Skrixxel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/Skrixxel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Skrixxel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on presentation.pdf (25 pages, 12092524 bytes).
+Output written on presentation.pdf (30 pages, 12881780 bytes).
 PDF statistics:
- 280 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
- 194 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 322 PDF objects out of 1000 (max. 8388607)
+ 68 named destinations out of 1000 (max. 500000)
+ 229 words of extra memory for PDF output out of 10000 (max. 10000000)
 
