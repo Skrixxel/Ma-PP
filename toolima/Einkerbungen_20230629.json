@@ -1,0 +1,1982 @@
+{
+    "$type": "sel::Project",
+    "currentImageIndex": 91,
+    "hasToolipEnvironment": false,
+    "images": [
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-28-787650_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-29-485716_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-30-229661_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-30-927586_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-31-670647_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-32-413656_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-33-111590_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-33-809578_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-34-507588_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-35-238656_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-35-936540_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-36-679698_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-37-377760_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-38-075578_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-38-773561_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-39-505561_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-40-203589_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-40-902647_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-41-646562_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-42-344528_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-43-042530_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-43-740530_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-44-485729_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                        {
+                            "$type": "QGraphicsPolygonItem",
+                            "labelId": 1,
+                            "polygon": {
+                                "$type": "QPolygonF",
+                                "points": [
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4810,
+                                        "y": 1745
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4794.375,
+                                        "y": 1743
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4780.5,
+                                        "y": 1750.875
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4777.625,
+                                        "y": 1762.25
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4786.375,
+                                        "y": 1769.25
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4802.5,
+                                        "y": 1774.875
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4810.75,
+                                        "y": 1767.875
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4817,
+                                        "y": 1755.5
+                                    }
+                                ]
+                            },
+                            "scenePos": {
+                                "$type": "QPointF",
+                                "x": 0,
+                                "y": 0
+                            },
+                            "sceneTransform": {
+                                "$type": "QTransform",
+                                "values": [
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1
+                                ]
+                            }
+                        }
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-45-183568_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                        {
+                            "$type": "QGraphicsPolygonItem",
+                            "labelId": 1,
+                            "polygon": {
+                                "$type": "QPolygonF",
+                                "points": [
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4805,
+                                        "y": 1261.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4792.5,
+                                        "y": 1263.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4774,
+                                        "y": 1273.25
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4770.5,
+                                        "y": 1291.25
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4782,
+                                        "y": 1299.25
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4795.25,
+                                        "y": 1302.25
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4806.5,
+                                        "y": 1294.25
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4815,
+                                        "y": 1278
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4813.25,
+                                        "y": 1268.5
+                                    }
+                                ]
+                            },
+                            "scenePos": {
+                                "$type": "QPointF",
+                                "x": 0,
+                                "y": 0
+                            },
+                            "sceneTransform": {
+                                "$type": "QTransform",
+                                "values": [
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1
+                                ]
+                            }
+                        }
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-45-914652_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-46-612530_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-47-310651_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-48-008537_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-48-706588_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-49-437599_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-50-182591_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-50-914583_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-51-612544_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-16-52-310727_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-06-733703_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-07-650632_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-08-522798_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-09-438668_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-10-310688_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-11-182649_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-12-101588_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-12-973528_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-13-845665_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-14-717718_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-15-589698_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-16-506651_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-17-378616_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-18-250665_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-19-157535_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-20-061594_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-20-933540_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-21-805936_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-22-722533_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-23-594529_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-24-510906_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                        {
+                            "$type": "QGraphicsPolygonItem",
+                            "labelId": 1,
+                            "polygon": {
+                                "$type": "QPolygonF",
+                                "points": [
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4763.1875,
+                                        "y": 2005.4375
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4768.875,
+                                        "y": 2014.625
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4777.375,
+                                        "y": 2020.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4787.5,
+                                        "y": 2018.6875
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4788.3125,
+                                        "y": 2008.25
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4773.4375,
+                                        "y": 2000.3125
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4766.875,
+                                        "y": 2001.4375
+                                    }
+                                ]
+                            },
+                            "scenePos": {
+                                "$type": "QPointF",
+                                "x": 0,
+                                "y": 0
+                            },
+                            "sceneTransform": {
+                                "$type": "QTransform",
+                                "values": [
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1
+                                ]
+                            }
+                        }
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-25-437587_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                        {
+                            "$type": "QGraphicsPolygonItem",
+                            "labelId": 1,
+                            "polygon": {
+                                "$type": "QPolygonF",
+                                "points": [
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4749.875,
+                                        "y": 1320.75
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4741.125,
+                                        "y": 1327.125
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4741.625,
+                                        "y": 1341.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4751.125,
+                                        "y": 1347.75
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4766.875,
+                                        "y": 1342.25
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4767.125,
+                                        "y": 1327.625
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4760.375,
+                                        "y": 1320.75
+                                    }
+                                ]
+                            },
+                            "scenePos": {
+                                "$type": "QPointF",
+                                "x": 0,
+                                "y": 0
+                            },
+                            "sceneTransform": {
+                                "$type": "QTransform",
+                                "values": [
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1
+                                ]
+                            }
+                        }
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-26-309673_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-27-215592_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-28-087575_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-29-006583_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-17-29-921580_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-28-361599_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-29-059524_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-29-757647_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-30-455563_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-31-153563_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-31-894547_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-32-592591_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-33-290745_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-33-988777_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-34-686657_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-35-384588_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-36-111530_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-36-843575_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-37-541535_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-38-239528_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-38-937655_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-39-680752_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-40-378650_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-41-076620_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-41-774728_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-42-472535_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-43-170690_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-43-902533_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-44-600576_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-45-298749_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-45-996533_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-46-694646_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-47-392636_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-48-090656_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-48-788531_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-49-486604_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                        {
+                            "$type": "QGraphicsPolygonItem",
+                            "labelId": 1,
+                            "polygon": {
+                                "$type": "QPolygonF",
+                                "points": [
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4795.125,
+                                        "y": 1551.375
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4776.125,
+                                        "y": 1552.25
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4764.5,
+                                        "y": 1565.25
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4765.375,
+                                        "y": 1581.875
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4771.375,
+                                        "y": 1588.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4787.5,
+                                        "y": 1587.625
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4800.25,
+                                        "y": 1577.125
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4804.875,
+                                        "y": 1565.125
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4802.75,
+                                        "y": 1556.25
+                                    }
+                                ]
+                            },
+                            "scenePos": {
+                                "$type": "QPointF",
+                                "x": 0,
+                                "y": 0
+                            },
+                            "sceneTransform": {
+                                "$type": "QTransform",
+                                "values": [
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1
+                                ]
+                            }
+                        }
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-50-218645_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-50-916591_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y_2/all_images_for_annotation/20230629/20230629-08-19-51-615464_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        }
+    ],
+    "labels": [
+        {
+            "$type": "sel::Label",
+            "color": {
+                "$type": "QColor",
+                "alpha": 255,
+                "blue": 0,
+                "green": 0,
+                "red": 255
+            },
+            "id": 1,
+            "maskId": 1,
+            "name": "Label 1",
+            "opacity": 1
+        }
+    ],
+    "settings": {
+        "SerializationSettings.overwriteMask": false,
+        "View.cameraMode": "reset"
+    }
+}

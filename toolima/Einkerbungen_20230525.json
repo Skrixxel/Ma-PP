@@ -1,0 +1,1613 @@
+{
+    "$type": "sel::Project",
+    "currentImageIndex": 47,
+    "hasToolipEnvironment": false,
+    "images": [
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-47-28-941462_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-47-30-047536_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-47-31-153579_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-47-32-260621_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                        {
+                            "$type": "QGraphicsPolygonItem",
+                            "labelId": 1,
+                            "polygon": {
+                                "$type": "QPolygonF",
+                                "points": [
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 3939,
+                                        "y": 1350
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 3982.5,
+                                        "y": 1375.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4011,
+                                        "y": 1330
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 3964.5,
+                                        "y": 1305.5
+                                    }
+                                ]
+                            },
+                            "scenePos": {
+                                "$type": "QPointF",
+                                "x": 0,
+                                "y": 0
+                            },
+                            "sceneTransform": {
+                                "$type": "QTransform",
+                                "values": [
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1
+                                ]
+                            }
+                        },
+                        {
+                            "$type": "QGraphicsPolygonItem",
+                            "labelId": 1,
+                            "polygon": {
+                                "$type": "QPolygonF",
+                                "points": [
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4034.75,
+                                        "y": 1340.75
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4001.5,
+                                        "y": 1391.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4028,
+                                        "y": 1408.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4056.5,
+                                        "y": 1352.75
+                                    }
+                                ]
+                            },
+                            "scenePos": {
+                                "$type": "QPointF",
+                                "x": 0,
+                                "y": 0
+                            },
+                            "sceneTransform": {
+                                "$type": "QTransform",
+                                "values": [
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1
+                                ]
+                            }
+                        },
+                        {
+                            "$type": "QGraphicsPolygonItem",
+                            "labelId": 1,
+                            "polygon": {
+                                "$type": "QPolygonF",
+                                "points": [
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4090,
+                                        "y": 1372.75
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4063.25,
+                                        "y": 1424.25
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4088,
+                                        "y": 1438.25
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4110.75,
+                                        "y": 1381.5
+                                    }
+                                ]
+                            },
+                            "scenePos": {
+                                "$type": "QPointF",
+                                "x": 0,
+                                "y": 0
+                            },
+                            "sceneTransform": {
+                                "$type": "QTransform",
+                                "values": [
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1
+                                ]
+                            }
+                        }
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-47-33-420596_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-47-34-526724_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-47-35-675516_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-47-36-781612_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-47-37-932583_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-47-39-082634_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-47-39-683512_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-47-40-236525_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-47-40-823509_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-47-41-420527_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-47-41-973492_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                        {
+                            "$type": "QGraphicsPolygonItem",
+                            "labelId": 1,
+                            "polygon": {
+                                "$type": "QPolygonF",
+                                "points": [
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4089.25,
+                                        "y": 1304.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4078,
+                                        "y": 1319.75
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4061.25,
+                                        "y": 1356.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4063.25,
+                                        "y": 1361.75
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4076.25,
+                                        "y": 1356.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4088.25,
+                                        "y": 1331
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 4093.75,
+                                        "y": 1311.75
+                                    }
+                                ]
+                            },
+                            "scenePos": {
+                                "$type": "QPointF",
+                                "x": 0,
+                                "y": 0
+                            },
+                            "sceneTransform": {
+                                "$type": "QTransform",
+                                "values": [
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1
+                                ]
+                            }
+                        },
+                        {
+                            "$type": "QGraphicsPolygonItem",
+                            "labelId": 1,
+                            "polygon": {
+                                "$type": "QPolygonF",
+                                "points": [
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 3129,
+                                        "y": 1334.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 3116.75,
+                                        "y": 1347
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 3097.25,
+                                        "y": 1373.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 3095.75,
+                                        "y": 1397.625
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 3116.625,
+                                        "y": 1383.25
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 3131.5,
+                                        "y": 1359
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 3136.625,
+                                        "y": 1337.375
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 3133,
+                                        "y": 1333.5
+                                    }
+                                ]
+                            },
+                            "scenePos": {
+                                "$type": "QPointF",
+                                "x": 0,
+                                "y": 0
+                            },
+                            "sceneTransform": {
+                                "$type": "QTransform",
+                                "values": [
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1
+                                ]
+                            }
+                        },
+                        {
+                            "$type": "QGraphicsPolygonItem",
+                            "labelId": 1,
+                            "polygon": {
+                                "$type": "QPolygonF",
+                                "points": [
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2148.125,
+                                        "y": 1326.375
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2110.375,
+                                        "y": 1367.25
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2141.75,
+                                        "y": 1390
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2183.625,
+                                        "y": 1335.125
+                                    }
+                                ]
+                            },
+                            "scenePos": {
+                                "$type": "QPointF",
+                                "x": 0,
+                                "y": 0
+                            },
+                            "sceneTransform": {
+                                "$type": "QTransform",
+                                "values": [
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1
+                                ]
+                            }
+                        }
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-47-42-526512_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                        {
+                            "$type": "QGraphicsPolygonItem",
+                            "labelId": 1,
+                            "polygon": {
+                                "$type": "QPolygonF",
+                                "points": [
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2176,
+                                        "y": 1336.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2176.5,
+                                        "y": 1363.25
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2189.25,
+                                        "y": 1387.75
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2209.75,
+                                        "y": 1397.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2218.25,
+                                        "y": 1388.25
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2214.75,
+                                        "y": 1370.25
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2202.25,
+                                        "y": 1341
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2182.5,
+                                        "y": 1332.25
+                                    }
+                                ]
+                            },
+                            "scenePos": {
+                                "$type": "QPointF",
+                                "x": 0,
+                                "y": 0
+                            },
+                            "sceneTransform": {
+                                "$type": "QTransform",
+                                "values": [
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1
+                                ]
+                            }
+                        }
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-47-43-124477_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-47-43-677506_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-47-44-231163_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-01-277464_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-01-875523_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-02-428588_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-02-981595_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-03-534512_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-04-143520_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-04-696500_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-05-249498_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-05-848604_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-06-434563_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-06-987460_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-07-540746_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                        {
+                            "$type": "QGraphicsPolygonItem",
+                            "labelId": 1,
+                            "polygon": {
+                                "$type": "QPolygonF",
+                                "points": [
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 310.5,
+                                        "y": 1463.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 291,
+                                        "y": 1476
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 271.5,
+                                        "y": 1509.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 282.5,
+                                        "y": 1523
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 296,
+                                        "y": 1520
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 308.5,
+                                        "y": 1498.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 319,
+                                        "y": 1472.5
+                                    }
+                                ]
+                            },
+                            "scenePos": {
+                                "$type": "QPointF",
+                                "x": 0,
+                                "y": 0
+                            },
+                            "sceneTransform": {
+                                "$type": "QTransform",
+                                "values": [
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1
+                                ]
+                            }
+                        }
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-08-093724_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-08-646460_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-09-199451_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-09-752589_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-10-352483_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-10-905556_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-11-458497_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                        {
+                            "$type": "QGraphicsPolygonItem",
+                            "labelId": 1,
+                            "polygon": {
+                                "$type": "QPolygonF",
+                                "points": [
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2044.5,
+                                        "y": 1340.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2024.5,
+                                        "y": 1349
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2007,
+                                        "y": 1369.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2012,
+                                        "y": 1388.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2019.5,
+                                        "y": 1393.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2042.5,
+                                        "y": 1374.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2056.5,
+                                        "y": 1357.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2052.5,
+                                        "y": 1346
+                                    }
+                                ]
+                            },
+                            "scenePos": {
+                                "$type": "QPointF",
+                                "x": 0,
+                                "y": 0
+                            },
+                            "sceneTransform": {
+                                "$type": "QTransform",
+                                "values": [
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1
+                                ]
+                            }
+                        },
+                        {
+                            "$type": "QGraphicsPolygonItem",
+                            "labelId": 1,
+                            "polygon": {
+                                "$type": "QPolygonF",
+                                "points": [
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2082.5,
+                                        "y": 1360
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2066.5,
+                                        "y": 1371.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2052.5,
+                                        "y": 1401
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2052,
+                                        "y": 1416
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2070,
+                                        "y": 1410
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2084.5,
+                                        "y": 1391.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 2088.5,
+                                        "y": 1376.5
+                                    }
+                                ]
+                            },
+                            "scenePos": {
+                                "$type": "QPointF",
+                                "x": 0,
+                                "y": 0
+                            },
+                            "sceneTransform": {
+                                "$type": "QTransform",
+                                "values": [
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1
+                                ]
+                            }
+                        }
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-12-011468_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-12-614519_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                        {
+                            "$type": "QGraphicsPolygonItem",
+                            "labelId": 1,
+                            "polygon": {
+                                "$type": "QPolygonF",
+                                "points": [
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 3061.875,
+                                        "y": 1347.25
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 3024.375,
+                                        "y": 1402.875
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 3057.625,
+                                        "y": 1423.625
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 3094.5,
+                                        "y": 1361
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 3063.25,
+                                        "y": 1343.75
+                                    }
+                                ]
+                            },
+                            "scenePos": {
+                                "$type": "QPointF",
+                                "x": 0,
+                                "y": 0
+                            },
+                            "sceneTransform": {
+                                "$type": "QTransform",
+                                "values": [
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1
+                                ]
+                            }
+                        }
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-13-167680_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-13-720642_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-14-309512_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-14-910468_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                        {
+                            "$type": "QGraphicsPolygonItem",
+                            "labelId": 1,
+                            "polygon": {
+                                "$type": "QPolygonF",
+                                "points": [
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 1369.25,
+                                        "y": 1386.75
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 1342.75,
+                                        "y": 1437.25
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 1376.75,
+                                        "y": 1460.75
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 1408.5,
+                                        "y": 1396.5
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": 1373.25,
+                                        "y": 1377.25
+                                    }
+                                ]
+                            },
+                            "scenePos": {
+                                "$type": "QPointF",
+                                "x": 0,
+                                "y": 0
+                            },
+                            "sceneTransform": {
+                                "$type": "QTransform",
+                                "values": [
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1
+                                ]
+                            }
+                        }
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-15-497543_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-16-050454_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-16-603498_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        },
+        {
+            "$type": "sel::LabeledImage",
+            "colorChannels": 1,
+            "depth": 1,
+            "height": 2800,
+            "imagePath": "D:/INSTENT/data_y/all_images_for_annotation/05_25/20230525-10-48-17-156484_a_matrix_unknown__orig.jpg",
+            "maskPath": "",
+            "scenes": [
+                {
+                    "$type": "sel::Scene",
+                    "labelItems": [
+                        {
+                            "$type": "QGraphicsPolygonItem",
+                            "labelId": 1,
+                            "polygon": {
+                                "$type": "QPolygonF",
+                                "points": [
+                                    {
+                                        "$type": "QPointF",
+                                        "x": -288,
+                                        "y": 176
+                                    },
+                                    {
+                                        "$type": "QPointF",
+                                        "x": -252,
+                                        "y": 112
+                                    }
+                                ]
+                            },
+                            "scenePos": {
+                                "$type": "QPointF",
+                                "x": 0,
+                                "y": 0
+                            },
+                            "sceneTransform": {
+                                "$type": "QTransform",
+                                "values": [
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1
+                                ]
+                            }
+                        },
+                        {
+                            "$type": "QGraphicsRectItem",
+                            "labelId": 1,
+                            "rect": {
+                                "$type": "QRectF",
+                                "x0": -640,
+                                "x1": -640,
+                                "y0": 1288,
+                                "y1": 1288
+                            },
+                            "scenePos": {
+                                "$type": "QPointF",
+                                "x": 0,
+                                "y": 0
+                            },
+                            "sceneTransform": {
+                                "$type": "QTransform",
+                                "values": [
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    1
+                                ]
+                            }
+                        }
+                    ],
+                    "zLayer": 0
+                }
+            ],
+            "width": 5320
+        }
+    ],
+    "labels": [
+        {
+            "$type": "sel::Label",
+            "color": {
+                "$type": "QColor",
+                "alpha": 255,
+                "blue": 0,
+                "green": 0,
+                "red": 255
+            },
+            "id": 1,
+            "maskId": 1,
+            "name": "Einkerbungen",
+            "opacity": 0.67500000000000004
+        }
+    ],
+    "settings": {
+        "ExportMaskDialog.boolMask": true,
+        "ExportMaskDialog.directory": "D:/INSTENT/data_y/annotations/20230525",
+        "ExportMaskDialog.filename": "{image_name}_{label_id}_{z_layer}",
+        "ExportMaskDialog.fullMask": false,
+        "ExportMaskDialog.labelMe": false,
+        "ExportMaskDialog.maoiMark": false,
+        "ExportMaskDialog.openFolder": true,
+        "ExportMaskDialog.skipUnlabeled": true,
+        "ExportMaskDialog.snapshot": false,
+        "ExportMaskDialog.vggImageAnnotator": false,
+        "ExportMaskDialog.voc": false,
+        "SerializationSettings.overwriteMask": false,
+        "View.cameraMode": "reset"
+    }
+}
