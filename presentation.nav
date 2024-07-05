@@ -81,7 +81,11 @@
 \headcommand {\beamer@framepages {30}{30}}
 \headcommand {\beamer@sectionpages {29}{30}}
 \headcommand {\beamer@subsectionpages {29}{30}}
+<<<<<<< HEAD
 \headcommand {\sectionentry {8}{Danksagung und Fragen}{31}{Danksagung und Fragen}{0}}
+=======
+\headcommand {\sectionentry {8}{Fragen}{31}{Fragen}{0}}
+>>>>>>> 4447ab5629c66eb826cef8e30741ec6b013f9081
 \headcommand {\slideentry {8}{0}{1}{31/31}{}{0}}
 \headcommand {\beamer@framepages {31}{31}}
 \headcommand {\slideentry {8}{0}{2}{32/32}{}{0}}
