@@ -5,3 +5,4 @@
 \beamer@sectionintoc {5}{Methodik}{13}{0}{5}
 \beamer@sectionintoc {6}{Resultate}{22}{0}{6}
 \beamer@sectionintoc {7}{Fazit und Ausblick}{29}{0}{7}
+\beamer@sectionintoc {8}{Danksagung und Fragen}{31}{0}{8}

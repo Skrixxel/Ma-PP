@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1720021304.64799 "d:/Ma-PP/presentation.tex" "presentation.pdf" "presentation" 1720021311.93857 0
+["pdflatex"] 1720161358.53372 "d:/Ma-PP/presentation.tex" "presentation.pdf" "presentation" 1720161365.31603 0
   "Bilder/Annotationfragen/Frage_5_anno.png" 1719996378 1420036 2a2c10bc8115c732173e0e70fe18018d ""
   "Bilder/Annotationfragen/Frage_5_crop.jpg" 1719996378 274642 4d7791f502d094f77a44a9c7a627fdfe ""
   "Bilder/Annotationfragen/Kratzer.jpg" 1719996378 205777 30c7803b96ac4feea1d57bcdd5b9a869 ""
@@ -246,12 +246,12 @@
   "C:/Users/Skrixxel/AppData/Local/Programs/MiKTeX/tex/latex/translator/translator.sty" 1622471510 8765 56d370785f0143111ff9898b5adfe08e ""
   "C:/Users/Skrixxel/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Skrixxel/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "d:/Ma-PP/presentation.tex" 1720021304 9590 94d87df0511091c0feceb4f86d756807 ""
-  "presentation.aux" 1720021311 6411 42591b7141d0a934a54d70d760059b6e "pdflatex"
-  "presentation.nav" 1720021311 4176 8268ebdd0a31c0ec300a4caf2b3e0404 "pdflatex"
-  "presentation.out" 1720021311 1035 8c314e3bdbeefa417c5e275f728f1baa "pdflatex"
-  "presentation.tex" 1720021304 9590 94d87df0511091c0feceb4f86d756807 ""
-  "presentation.toc" 1720021311 398 070c0e7b3525672553facfe58b4d7efd "pdflatex"
+  "d:/Ma-PP/presentation.tex" 1720161348 9694 042ce102b19d44a0a1b051ff16806e69 ""
+  "presentation.aux" 1720161364 6976 56da7a2e0acdfaee0ecaf759f201544a "pdflatex"
+  "presentation.nav" 1720161364 4539 257776cf27ac9ecbf9b3b979a06b93f4 "pdflatex"
+  "presentation.out" 1720161364 1189 ec57943d21ad7673c24f090d98cd5cd6 "pdflatex"
+  "presentation.tex" 1720161348 9694 042ce102b19d44a0a1b051ff16806e69 ""
+  "presentation.toc" 1720161364 456 76417220211f2bcfbc56eba1f4623b1d "pdflatex"
   (generated)
   "presentation.aux"
   "presentation.log"
