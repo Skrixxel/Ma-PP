@@ -5,8 +5,4 @@
 \beamer@sectionintoc {5}{Methodik}{13}{0}{5}
 \beamer@sectionintoc {6}{Resultate}{22}{0}{6}
 \beamer@sectionintoc {7}{Fazit und Ausblick}{29}{0}{7}
-<<<<<<< HEAD
-\beamer@sectionintoc {8}{Danksagung und Fragen}{31}{0}{8}
-=======
-\beamer@sectionintoc {8}{Fragen}{31}{0}{8}
->>>>>>> 4447ab5629c66eb826cef8e30741ec6b013f9081
+\beamer@sectionintoc {8}{Fragen und Danksagung}{31}{0}{8}

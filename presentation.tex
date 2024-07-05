@@ -141,8 +141,8 @@ Schoenstr. 11\newline
     \begin{equation}
         \begin{split}
             Dice &= \frac{2 \cdot A \cap B}{A + B}\\
-            &= \frac{2 \cdot TP \cap B}{TP + FP + FN}\\
-            Dice_g &= \frac{2 \cdot TP \cap B}{TP + \alpha \cdot FP + FN}
+            &= \frac{2 \cdot TP}{TP + FP + FN}\\
+            Dice_g &= \frac{2 \cdot TP}{TP + \alpha \cdot FP + FN}
             \,\,\,(mit\, \alpha \leq 1)
         \end{split}
     \end{equation}
@@ -225,7 +225,6 @@ Schoenstr. 11\newline
         \includegraphics[width=0.95\linewidth]{Bilder/Prediction_und_Maske.jpeg}
         \caption{Resultat der Prediction zur Visualisierung. \newline Dice-Score = \raisebox{0.5ex}{\texttildelow}0.77. \scriptsize{Quelle: Yves Seburger}}
     \end{figure}
-    
 \end{itemize}
 \end{frame}
 
@@ -241,27 +240,29 @@ Schoenstr. 11\newline
         \item Exponentiell
         \item veränderliche End-Epochen für die Veränderung von $\alpha$
     \end{itemize}
-    \item Qualität der Resultate (ernüchternd)
+    \item Qualität der Resultate
     \item Nutzung anderer Trainingssets (Autos, Vögel, etc.)
 \end{itemize}
-
-\end{frame}\section{Danksagung und Fragen}
-\begin{frame}
-\frametitle{Danksagung und Fragen}
-
 \end{frame}
 
-<<<<<<< HEAD
-
-=======
-\section{Fragen}
-\begin{frame}
-\frametitle{Fragen}
-\begin{figure}
-    \includegraphics[width=0.5\linewidth]{Bilder/Happy STent.png}
-    \caption{Fragen? \scriptsize{Quelle: Yves Seburger}}
-\end{figure}
+\section{Fragen und Danksagung}
+\begin{frame}[allowframebreaks]
+    \frametitle{Fragen und Danksagung}    
+    \begin{figure}
+        \includegraphics[width=0.45\linewidth]{Bilder/Happy Stent.png}
+        \caption{Fragen? \scriptsize{Quelle: Yves Seburger}}
+    \end{figure}
+    \framebreak
+    Danke an:
+    \begin{itemize}
+        \item Prof. Dr. rer. nat. Martin Böhm
+        \item Dipl.-Ing. Viktor Truderung
+        \item Thomas Zimmermann M.Sc.
+        \item Dipl.-Ing. (FH) Alexander Jäger
+        \item Nina Schmitzer B.Eng.
+        \item Dipl.-Ing. (FH) Raymond Seburger
+        \item Lea Seburger
+    \end{itemize} 
 \end{frame}
->>>>>>> 4447ab5629c66eb826cef8e30741ec6b013f9081
 
 \end{document}
