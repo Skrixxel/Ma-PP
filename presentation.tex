@@ -76,12 +76,11 @@ Schoenstr. 11\newline
 \begin{itemize}
     \item Einschränkung von Kerbenfehlern:
         \begin{figure}
-            \includegraphics[width=4.5cm]{Bilder/Annotationfragen/Frage_5_crop.jpg}
-            \includegraphics[width=4.5cm]{Bilder/Annotationfragen/Frage_5_anno.png}
-            \includegraphics[width=4.5cm]{Bilder/Annotationfragen/Kratzer.jpg}
-            \includegraphics[width=4.5cm]{Bilder/Annotationfragen/Kratzer_anno.jpg}
+            \includegraphics[height=3.0cm]{Bilder/Annotationfragen/Kerbe.jpg}
+            \includegraphics[height=3.0cm]{Bilder/Annotationfragen/Kratzer.jpg}
             \caption{Annotierte Bilder. \scriptsize{Quelle: Yves Seburger}}
         \end{figure} 
+        \framebreak
     \item Annotation:
     \begin{figure}
         \includegraphics[width=8.7cm]{Bilder/toolima.png}
@@ -98,13 +97,13 @@ Schoenstr. 11\newline
             \begin{itemize}
                 \item Einlesen von Daten
                 \item Ausgabe von Ergebnissen
-                \item Speichern von Gewichte
-                \item Datenmenge soll erweiterbar sein
+                \item Speichern der Gewichte
+                \item erweiterbare Datenmenge
             \end{itemize}
         \item Optionale Anforderungen:
             \begin{itemize}
                 \item veränderliche Hyperparameter
-                \item ``einfache`` Handhabung
+                \item einfache Handhabung (nach kurzer Einführung)
                 \item schnelles Training ohne große Verluste
             \end{itemize}
         \item Technische Spezifikationen: 
@@ -120,22 +119,22 @@ Schoenstr. 11\newline
     \item Anzahl der Originalbilder
     \item Fehlerannotierung:
     \begin{itemize}
-        \item Kratzer sollen nicht annotiert werden
-        \item Kerben ``pixelgenau'' annotieren
+        \item Kerbenfehler pixelgenau einzeichnen
+        \item Kratzer ignorieren (Vorgabe)
     \end{itemize}
     \item normaler Dice-Score:
     $Dice = \frac{2 \cdot A \cap B}{A + B}$ 
     \item Aufteilung der Originaldaten:
     \begin{itemize}
-        \item 80/20-Regel
-        \item verschiedene Fehlertypen
+        \item verschiedene Hauptfehlertypen
+        \item Problem bei der 80/20-Regel
     \end{itemize}
 \end{itemize}
 \end{frame}
 
-\section{Methodik}
+\section{Methodik und Erkenntnisse}
 \begin{frame}[allowframebreaks]
-\frametitle{Methodik}
+\frametitle{Methodik und Erkenntnisse}
 \begin{itemize}
     \item gewichteter Dice-Score:\\
     \begin{equation}
@@ -147,6 +146,11 @@ Schoenstr. 11\newline
         \end{split}
     \end{equation}
     \framebreak
+    \item Dice-Score vs. gewichteter Dice-Score
+    \begin{figure}
+        \includegraphics[width=0.9\linewidth]{Bilder/Mir_Set_true_vs_false.png}
+        \caption{gemittelte Dice-Scores für alle Datasets. \scriptsize{Quelle: Yves Seburger}}
+    \end{figure}
     \item Augmentierung:
     \begin{itemize}
         \item Spiegelung:
@@ -176,43 +180,63 @@ Schoenstr. 11\newline
         \begin{figure}
             \includegraphics[height=5cm]{Bilder/Augmentation/verzerrung.jpg}
             \caption{verzerrte Aufnahme. \scriptsize{Quelle: Yves Seburger}}
-        \end{figure} 
+        \end{figure}
     \end{itemize}
-    \item UNET
-    \begin{figure}
-        \includegraphics[width=0.8\linewidth]{Bilder/UNET_transparent.png}
-        \caption{rotierte Aufnahmen. Quelle: \href{https://www.researchgate.net/profile/Blaz-Meden/publication/327635322/figure/fig2/AS:672158246252545@1537266422125/Illustration-of-the-training-data-The-top-row-shows-sample-images-from-the-CASIA.ppm}{Research Gate}}
-    \end{figure}
-    \item Half-UNET
-    \begin{figure}
-        \includegraphics[width=0.8\linewidth]{Bilder/halfUNET.png}
-        \caption{rotierte Aufnahmen. Quelle: \href{https://www.researchgate.net/publication/361186968/figure/fig3/AS:11431281182545975@1692382952577/The-architecture-of-Half-UNet-The-input-image-size-is-detailed-in-Table-2-The-numbers.tif}{Research Gate}}
-    \end{figure}
-    \end{itemize}
-\end{frame}
-
-\section{Resultate}
-\begin{frame}[allowframebreaks]
-\frametitle{Resultate}
-\begin{itemize}
+    \item Anzahl an Daten nach Augmentierung:
+        \begin{tabular}{|c|c|c|}
+            \hline
+            \textbf{Dataset}            & \textbf{Aug.-art}        & \textbf{Daten} \\
+            \hline
+            \texttt{Original\_Set}      & keine                    &  $43$         \\
+            \hline
+            \texttt{Dis\_Set}           & Verzerrung               &  $86$         \\
+            \hline
+            \texttt{Con\_Set}           & Kontrast                 &  $172$         \\
+            \hline
+            \texttt{Gau\_Set}           & weichgezeichnet          &  $172$         \\
+            \hline
+            \texttt{Mir\_Set}           & gespiegelt               &  $172$    \\
+            \hline
+            \texttt{Rot\_Set}           & gedreht                  &  $172$        \\
+            \hline
+            \texttt{Gau\_Con\_Set}      & mix1                     &  $688$        \\   
+            \hline
+            \texttt{Mir\_Rot\_Dis\_Set} & mix2                     &  $1\dot\;381$   \\   
+            \hline
+            \texttt{All\_Set}           & alle                     &  $22\dot\;016$  \\
+            \hline
+            \end{tabular}
+    
+    \framebreak
     \item verschiedene Trainingssets:
     \begin{figure}
         \includegraphics[width=0.85\linewidth]{Bilder/alle_Sets_false_trans.png}
         \caption{Dice-Scores für alle Datasets. \scriptsize{Quelle: Yves Seburger}}
     \end{figure}
     \framebreak
-    \item Dice-Score vs. gewichteter Dice-Score
+    \item UNET
     \begin{figure}
-        \includegraphics[width=0.95\linewidth]{Bilder/alle_Sets_true_vs_false.png}
-        \caption{gemittelte Dice-Scores für alle Datasets. \scriptsize{Quelle: Yves Seburger}}
+        \includegraphics[width=0.8\linewidth]{Bilder/UNET_transparent.png}
+        \caption{rotierte Aufnahmen. Quelle: \href{https://www.researchgate.net/profile/Blaz-Meden/publication/327635322/figure/fig2/AS:672158246252545@1537266422125/Illustration-of-the-training-data-The-top-row-shows-sample-images-from-the-CASIA.ppm}{Research Gate}}
+    \end{figure}
+    \framebreak
+    \item Half-UNET
+    \begin{figure}
+        \includegraphics[width=0.8\linewidth]{Bilder/halfUNET.png}
+        \caption{rotierte Aufnahmen. Quelle: \href{https://www.researchgate.net/publication/361186968/figure/fig3/AS:11431281182545975@1692382952577/The-architecture-of-Half-UNet-The-input-image-size-is-detailed-in-Table-2-The-numbers.tif}{Research Gate}}
     \end{figure}
     \item UNET vs. HalfUNET
     \begin{figure}
         \includegraphics[width=0.85\linewidth]{Bilder/UNET_vs_halfUNET.png}
         \caption{UNET und HalfUNET im Vergleich. \scriptsize{Quelle: Yves Seburger}}
     \end{figure}
-    HalfUNET \raisebox{0.5ex}{\texttildelow}$2,5 \times$ schneller, bei fast gleichem Resultat.
-    \item Endresultat
+    HalfUNET ist \raisebox{0.5ex}{\texttildelow}$2,5 \times$ schneller, bei fast gleichem Resultat.
+    \end{itemize}
+\end{frame}
+
+\section{Endergebnis}
+\begin{frame}[allowframebreaks]
+\frametitle{Endergebnis}
     \begin{figure}
         \includegraphics[width=0.9\linewidth]{Bilder/Original.jpeg}
         \caption{Originalbild. \scriptsize{Quelle: Yves Seburger}}
@@ -225,7 +249,6 @@ Schoenstr. 11\newline
         \includegraphics[width=0.95\linewidth]{Bilder/Prediction_und_Maske.jpeg}
         \caption{Resultat der Prediction zur Visualisierung. \newline Dice-Score = \raisebox{0.5ex}{\texttildelow}0.77. \scriptsize{Quelle: Yves Seburger}}
     \end{figure}
-\end{itemize}
 \end{frame}
 
 \section{Fazit und Ausblick}
@@ -245,9 +268,9 @@ Schoenstr. 11\newline
 \end{itemize}
 \end{frame}
 
-\section{Fragen und Danksagung}
+\section{Fragen?}
 \begin{frame}[allowframebreaks]
-    \frametitle{Fragen und Danksagung}    
+    \frametitle{Fragen?}    
     \begin{figure}
         \includegraphics[width=0.45\linewidth]{Bilder/Happy Stent.png}
         \caption{Fragen? \scriptsize{Quelle: Yves Seburger}}
